@@ -1,0 +1,8 @@
+.App {
+  display: flex;
+  background: linear-gradient(to right, #0062e6, #33aeff);
+  justify-content: space-evenly;
+  margin: auto;
+  padding: 25px;
+  background-size: cover;
+}
